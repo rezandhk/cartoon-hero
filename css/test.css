@@ -1,26 +1,29 @@
+body{
+	background-color:lightgrey;
+}
+
 h1{
-			color: yellow;
-			font-size: 90px;
-			text-decoration: underline;
-		}
+	color: yellow;
+	font-size: 90px;
+	text-decoration: underline;
+}
 
-		#first{
-			font-size:50;
-		}
+#first{
+	font-size:50;
+	}
 
-		.small{
-			font-size: 10;
-		}
+.small{
+	font-size: 10;
+	}
+h2{
+	color: blue;
+	font-size: 22px;
+	}
 
-		h2{
-			color: blue;
-			font-size: 22px;
-		}
+h2 span{
+	font-style:line-through;
+	}
 
-		h2 span{
-			font-style:line-through;
-		}
-
-		span{
-			font-size:500;
-		}
+span{
+	font-size:500;
+	}
